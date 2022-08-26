@@ -10,6 +10,7 @@
 | [![Maps Badge](https://img.shields.io/badge/Cidade-239120?style=for-the-badge&logo=google-maps&logoColor=white)](https://www.google.com/maps/place/Belo+Horizonte,+MG/@-19.9026615,-44.1041369,11z/data=!3m1!4b1!4m5!3m4!1s0xa690cacacf2c33:0x5b35795e3ad23997!8m2!3d-19.919052!4d-43.9386685) | Belo Horizonte, Minas Gerais – Brasil. |
 | [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](igoraujo93@gmail.com) | igoraujo93@gmail.com |
 | [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igoraujo) | https://www.linkedin.com/in/igoraujo|
+| [![CV Badge](https://img.shields.io/badge/pdf-curriculum%20vitae-red)](./doc/CV_Igor_Araujo_20220826.pdf) | [Curriculum Vitae](./doc/CV_Igor_Araujo_20220826.pdf)
 
 ## Objetivo
 
@@ -27,7 +28,7 @@ Compromisso e responsabilidade. Disposto a aprender, para o crescimento pessoal 
 
 [![Dotnet core Badge](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)](#)
 [![Node Badge](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)](#)
-[![Sprongboot Badge](https://img.shields.io/badge/Sprong_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
+[![Springboot Badge](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](#)
 [![Micronaut Badge](https://img.shields.io/badge/Micronaut-000000?style=for-the-badge&logoColor=white)](#)
 
 [![Html5 Badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](#)
@@ -247,7 +248,7 @@ Trabalhando principalmente com .NET Full Stack e Java Back-End (API Rest).
 
 **Montador de QDC**
 
-> Cumprimento da carga horária obrigatória de 120 horas, para a devidas condições para a formação no curso técnico de automação industrial de 1200 horas.
+> Cumprimento da carga horária obrigatória de 120 horas, para a devidas condições para a formação no curso técnico de automação industrial.
 
 * Leitura e interpretação de projetos elétricos
 * Montagem de painéis elétricos
@@ -272,3 +273,5 @@ Criação de Windows Service, que lê uma fila no banco de dados e dispara estí
 
 ## Serviço de execução única
 Serviço de verificação e atualização de endereços de acordo com a base do SERASA, em .NetCore
+
+
