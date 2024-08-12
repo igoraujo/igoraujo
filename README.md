@@ -1,7 +1,7 @@
 # Igor da Silva Araújo
 
 > <p>:brazil: Brasileiro</p>
-> <p>:space_invader: 29 anos</p>
+> <p>:space_invader: 31 anos</p>
 > <p>:ring: Casado</p>
 
 | :link: | |
@@ -58,6 +58,10 @@ Compromisso e responsabilidade. Disposto a aprender, para o crescimento pessoal 
 
 ## Formação
 
+### Pós-Graduação
+
+* <u>Arquitetura de software Distribuido</u>, Pontifícia Universidade Católica de Minas Gerais (concluído em fevereiro 2023).
+
 ### Graduação
 
 * <u>Análise e Desenvolvimento de Sistemas</u>, Faculdade COTEMIG (concluído em junho 2019).
@@ -81,15 +85,36 @@ Compromisso e responsabilidade. Disposto a aprender, para o crescimento pessoal 
 * <u>Curso de Algoritmos</u> – CursoemVideo.com
 
 ## Idiomas
-* <u>Espanhol</u>: leitura básica, escrita básica, conversação básica
+* <u>Espanhol</u>: leitura básica, conversação básica
 * <u>Inglês</u>: leitura básica, escrita básica, conversação básica
 
 ## Histórico profissional
 
-### Banco Inter - de dezembro/2020 até o momento
+### Raro Labs/Banco BMG - de dezembro/2023 até o momento
 (empresa grande porte no segmento tecnologia da)
 
-**Analista**
+**Analista de Desenvolvimento Sênior**
+
+> <p>Manutenção e desenvolvimento de serviços e soluções para os clientes internos e externos. Com foco no Onboarding do cliente no Banco.</p>
+
+* Análise de manutenção,
+* Análise de banco de dados,
+* .NET Core,
+* .NET Framework,
+* Sql Server,
+* Oracle SQL,
+* API Rest
+* Robôs
+* Git
+* Azure DevOps
+* JIRA
+* Kibana
+* New Relic
+
+### Banco Inter - de dezembro/2020 até janeiro/2023
+(empresa grande porte no segmento tecnologia da)
+
+**Desenvolvedor Pleno II**
 
 > <p>Manutenção e desenvolvimento de Microsserviços servindo as soluções para os clientes internos e externos. Com foco em todo o arcabolso dos produtos de investimentos.</p>
 > <p>Qualidade de produto e processos de qualidade e estabilidade da carteira de investimentos dos clientes</p>
