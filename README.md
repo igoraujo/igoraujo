@@ -1,7 +1,7 @@
 # Igor da Silva Araújo
 
 > <p>:brazil: Brasileiro</p>
-> <p>:space_invader: 31 anos</p>
+> <p>:space_invader: 33 anos</p>
 > <p>:ring: Casado</p>
 
 | :link: | |
